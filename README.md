@@ -16,13 +16,9 @@
 ＊例如：
 
 firstPeople = 1, day = 6 
-
 (1人)1 
-
 (2人)2 3 
-
 (3人)4 5 6 
-
 output : 3
 
 firstPeople = 3, day = 10 

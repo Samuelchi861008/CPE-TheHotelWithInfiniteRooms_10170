@@ -15,11 +15,18 @@
 
 ＊例如：
 
+===範例一===
+
 firstPeople = 1, day = 6 
 (1人)1 
+
 (2人)2 3 
+
 (3人)4 5 6 
+
 output : 3
+
+===範例二===
 
 firstPeople = 3, day = 10 
 
@@ -29,7 +36,9 @@ firstPeople = 3, day = 10
 
 (5人)8 9 10 
 
-output : 5 
+output : 5  
+
+===範例三=== 
 
 firstPeople = 3, day = 14 
 
